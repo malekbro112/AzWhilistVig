@@ -1,0 +1,10 @@
+
+
+/* Stylesheet for Hello World */
+
+/* Style for the h1 element */
+h1 {
+    color: blue; /* Set the text color to blue */
+    text-align: center; /* Center-align the text */
+    font-family: Arial, sans-serif; /* Set the font family */
+}
